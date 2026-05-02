@@ -20,18 +20,18 @@ Here's a few of my favorite animations::
 
 This repo includes Jupyter Notebooks of each lesson structured in the same way as Prof. Barba's module 12 Steps to Navier Stokes. You can find my own version of those lessons in the lessons folder or check them out directly below. My most significant addition to this project was the inclusion of animation code for each of the lessons. They link to a NBViewer version of the plot so you can look at the embedded animation and the LaTeX formatting as it was intended:
 
-* [Step 1: 1D Linear Convection](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S01_1D_Linear_Convection.ipynb)
-* [Step 2: 1D Non-Linear Convection](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S02_Non-linear_convection.ipynb)
-* [Step 3: 1D Diffusion](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S03_1D_Diffusion_Equation.ipynb)
-* [Step 4: 1D Burgers Equation](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S04_Burgers_EQ.ipynb)
-* [Step 5: 2D Linear Convection](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S05_2D_Linear_Convection.ipynb)
-* [Step 6: 2D Non-Linear Convection](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S06_2D_Nonlinear_Convection.ipynb)
-* [Step 7: 2D Diffusion](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S07_2D_Diffusion.ipynb)
-* [Step 8: 2D Burger's Equation](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S08_2D_Burgers_EQ.ipynb)
-* [Step 9: 2D Laplace's Equation](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S09_2D_Laplace_Equations.ipynb)
-* [Step 10: 2D Poisson Equation](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S10_2D_Poisson_Eq.ipynb)
-* [Step 11: Cavity Flow with Navier-Stokes](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S11_Cavity_Flow_W_NS.ipynb)
-* [Step 12: Channel Flow with Navier-Stokes](https://nbviewer.jupyter.org/github/wme7/CFDPython/blob/master/Lessons/S12_Channel_Flow_W_NS.ipynb)
+* [Step 1: 1D Linear Convection](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S01_1D_Linear_Convection.ipynb)
+* [Step 2: 1D Non-Linear Convection](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S02_Non-linear_convection.ipynb)
+* [Step 3: 1D Diffusion](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S03_1D_Diffusion_Equation.ipynb)
+* [Step 4: 1D Burgers Equation](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S04_Burgers_EQ.ipynb)
+* [Step 5: 2D Linear Convection](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S05_2D_Linear_Convection.ipynb)
+* [Step 6: 2D Non-Linear Convection](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S06_2D_Nonlinear_Convection.ipynb)
+* [Step 7: 2D Diffusion](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S07_2D_Diffusion.ipynb)
+* [Step 8: 2D Burger's Equation](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S08_2D_Burgers_EQ.ipynb)
+* [Step 9: 2D Laplace's Equation](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S09_2D_Laplace_Equations.ipynb)
+* [Step 10: 2D Poisson Equation](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S10_2D_Poisson_Eq.ipynb)
+* [Step 11: Cavity Flow with Navier-Stokes](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S11_Cavity_Flow_W_NS.ipynb)
+* [Step 12: Channel Flow with Navier-Stokes](https://nbviewer.org/github/wme7/CFDpython/blob/main/Lessons/S12_Channel_Flow_W_NS.ipynb)
 
 ## References
 
