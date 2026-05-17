@@ -1,0 +1,9 @@
+[project]
+name = "cfdpython"
+version = "0.1.0"
+description = "The 12 steps to Navier-Stokes equations in Python"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.5",
+]
